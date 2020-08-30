@@ -2,7 +2,7 @@
 
 Análise Descritiva para participação do Desafio ImpulsoGov
 
-> wget http://datasource.coronacidades.org/br/cities/cases/full -O impulso-caso-full.csv
+
 
 # Recomendações para o uso:
 
@@ -13,6 +13,13 @@ pip install -r requirements.txt
 jupyter notebook
 
 Veja os notebooks no diretório que acabou de baixar, tem a extensão ipynb
+
+Para obtenção dos arquivos para análise:
+
+```
+ wget http://datasource.coronacidades.org/br/cities/cases/full -O impulso-caso-full.csv
+
+```
 
 Dúvidas: arcursino@gmail.com
 
@@ -37,14 +44,15 @@ Enquanto o Governo do Estado de São Paulo [3], considera desde junho que o Muni
 
 (b) Descreva 2 (duas) análises ou visualizações que você montaria para comparar a situação entre esses municípios. 
 
-1. A primeira análise foi a verificação do controle a Covid-19 nos Municípios [2].
+1. **A primeira análise foi a verificação do controle a Covid-19 nos Municípios [2].**
 
-                       | **SJCampos - SP**  | **Florianópolis - SP**
---------------------   | -------------      | ------------------
-Ritmo de Contágio      | Insatisfatório     | Insatisfatório
-Subnotificação         | Bom                | Bom
-Capacidade Hospilar    | Ruim               | Bom
-Isolamento Social      | 37%                | 41%
+|                    | **SJCampos - SP**  | **Florianópolis - SP** |
+|:------------------:|:------------------:|:----------------------:|
+|Ritmo de Contágio   | Insatisfatório     | Insatisfatório         |
+|Subnotificação      | Bom                | Bom                    |
+|Capacidade Hospilar | Ruim               | Bom                    |
+|Isolamento Social   | 37%                | 41%                    |
+
 
 Onde:
  - São José dos Campos  
@@ -60,7 +68,7 @@ Onde:
     - Isolamento Social: Na última semana, ficaram em casa cerca de 41% das pessoas;
 
 
-2. Em consequência a segunda análise foi a de número de mortos ao longo dos meses da quarentena, para mostrar como o isolamento social e o diagnóstico dos doentes é importante para preservar a vida dos munícipes [4]
+2. **Em consequência a segunda análise foi a de número de mortos ao longo dos meses da quarentena, para mostrar como o isolamento social e o diagnóstico dos doentes é importante para preservar a vida dos munícipes [4].**
 
 |           | **SJCampos - SP**  | **Florianópolis - SP** |
 |:---------:|:------------------:|:----------------------:|
