@@ -39,12 +39,12 @@ Enquanto o Governo do Estado de São Paulo [3], considera desde junho que o Muni
 
 1. A primeira análise foi a verificação do controle a Covid-19 nos Municípios [2].
 
-                       | SJCampos - SP  | Florianópolis - SP
---------------------   | -------------  | ------------------
-Ritmo de Contágio      | Insatisfatório | Insatisfatório
-Subnotificação         | Bom            | Bom
-Capacidade Hospilar    | Ruim           | Bom
-Isolamento Social      | 37%            | 41%
+                       | **SJCampos - SP**  | **Florianópolis - SP**
+--------------------   | -------------      | ------------------
+Ritmo de Contágio      | Insatisfatório     | Insatisfatório
+Subnotificação         | Bom                | Bom
+Capacidade Hospilar    | Ruim               | Bom
+Isolamento Social      | 37%                | 41%
 
 Onde:
  - São José dos Campos  
@@ -60,22 +60,20 @@ Onde:
     - Isolamento Social: Na última semana, ficaram em casa cerca de 41% das pessoas;
 
 
-2. Em consequência a segunda análise foi a de número de mortos ao longo dos meses da quarentena, para mostrar como o isolamento social e o diagnóstico dos doentes é importante para preservar a vida dos munícipes.
+2. Em consequência a segunda análise foi a de número de mortos ao longo dos meses da quarentena, para mostrar como o isolamento social e o diagnóstico dos doentes é importante para preservar a vida dos munícipes [4]
 
-          | SJCampos - SP  | Florianópolis - SP
---------- | -------------  | ------------------
-Março     | 0              | 0 
-Abril     | 11             | 5
-Maio      | 35             | 7
-Junho     | 92             | 13
-Julho     | 200            | 52
-Agosto    | 336            | 117
-
-Fonte: http://datasource.coronacidades.org/br/cities/cases/full
+|           | **SJCampos - SP**  | **Florianópolis - SP** |
+|:---------:|:------------------:|:----------------------:|
+|Março      | 0                  | 0                      |
+|Abril      | 11                 | 5                      |
+|Maio       | 35                 | 7                      |
+|Junho      | 92                 | 13                     |
+|Julho      | 200                | 52                     |
+|Agosto     | 336                | 117                    |
 
 
 
-
-[1] http://www.coronavirus.sc.gov.br/gestao-da-saude/ 
-[2] https://farolcovid.coronacidades.org/
-[3] https://www.saopaulo.sp.gov.br/coronavirus/isolamento/
+[1] http://www.coronavirus.sc.gov.br/gestao-da-saude/ <br>
+[2] https://farolcovid.coronacidades.org/ <br>
+[3] https://www.saopaulo.sp.gov.br/coronavirus/isolamento/ <br>
+[4] http://datasource.coronacidades.org/br/cities/cases/full <br>
