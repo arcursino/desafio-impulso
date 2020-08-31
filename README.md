@@ -98,3 +98,19 @@ Todos os gráficos devem conter legenda e título. Junto a ele deve conter uma b
 
 #### O Dashboard encontra-se em:
 https://github.com/arcursino/desafio-impulso/blob/master/analise_covid.ipynb
+
+![Gráfico 'Casos ativos e mortes ao longo do tempo'](https://github.com/arcursino/desafio-impulso/blob/master/images/casos_ativos1.png)
+
+Ao rodar o notebook é possível ver esse mesmo Gráfico no modo interativo, onde no eixo x temos as datas e no eixo y as quantidades de cada caso (que inclusive cresce ao longo do tempo).
+
+![Gráfico 'Média de Índice De Isolamento ao longo dos Meses'](https://github.com/arcursino/desafio-impulso/blob/master/images/isolamento%20social.png)
+
+O índice de isolamento social do município foi caindo ao longo dos meses. A medida de isolamento foi alterada e os comércios começaram a funcionar a partir do dia 06 de junho. No gráfico acima é possível observar que o número de casos e de mortes aumentaram a partir da segunda quinzena do mês de junho.
+
+![Gráfico 'Comparação da Taxa de Isolamento no Domingo e na Segunda'](https://github.com/arcursino/desafio-impulso/blob/master/images/comparacao3.png)
+
+É possível observar que o índice de isolamento de domingo para segundo chega a cair 10%.
+
+![Gráfico 'Número de casos confirmados no Município'](https://github.com/arcursino/desafio-impulso/blob/master/images/casos_confirmados4.png)
+
+São José dos Campos tem em média 1700 casos confirmados de coronavírus a cada 100 mil habitantes e o montante de casos confirmados atualmente é de 12720.
