@@ -99,9 +99,11 @@ Todos os gráficos devem conter legenda e título. Junto a ele deve conter uma b
 #### O Dashboard encontra-se em:
 https://github.com/arcursino/desafio-impulso/blob/master/analise_covid.ipynb
 
+Ao rodar o notebook é possível ver esse mesmo Gráfico no modo interativo.
+
 ![Gráfico 'Casos ativos e mortes ao longo do tempo'](https://github.com/arcursino/desafio-impulso/blob/master/images/casos_ativos1.png)
 
-Ao rodar o notebook é possível ver esse mesmo Gráfico no modo interativo, onde no eixo x temos as datas e no eixo y as quantidades de cada caso (que inclusive cresce ao longo do tempo).
+No eixo x temos as datas e no eixo y as quantidades de cada caso (que inclusive cresce ao longo do tempo).
 
 ![Gráfico 'Média de Índice De Isolamento ao longo dos Meses'](https://github.com/arcursino/desafio-impulso/blob/master/images/isolamento%20social.png)
 
