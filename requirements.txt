@@ -16,3 +16,4 @@ folium
 cufflinks
 plotly
 chart_studio
+sklearn
