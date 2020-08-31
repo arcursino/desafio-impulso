@@ -14,10 +14,18 @@ jupyter notebook
 
 Veja os notebooks no diretório que acabou de baixar, tem a extensão ipynb
 
-Para obtenção do arquivo para análise, foi utilizado o comando abaixo no cmd (no diretório do projeto):
+- Docker
+
+```
+make start
+
+```
+
+Para obtenção dos arquivos para análise, foram utilizados os comandos abaixo no cmd (no diretório do projeto):
 
 ```
  wget http://datasource.coronacidades.org/br/cities/cases/full -O impulso-caso-full.csv
+ wget http://datasource.coronacidades.org/br/cities/farolcovid/main -O farolcovid-main.csv
 
 ```
 Para obtenção do arquivo de isolamento social de São José dos Campos, foi acessado o site:
